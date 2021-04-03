@@ -1,2 +1,2 @@
-# flatulous
-flatulous - the fabulous flat app
+# flabulous
+flabulous - the fabulous flat app
